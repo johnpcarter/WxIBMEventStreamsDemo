@@ -72,7 +72,7 @@ function appendToProducerTable(offset, deviceId, temperature) {
    
 function startConsuming() {
 
-	ws = new WebSocket(wsSocket, "test");	
+	ws = new WebSocket(wsSocket);	
 	
 	ws.onopen = function(event) {
 		

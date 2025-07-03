@@ -5,7 +5,7 @@
     <record name="WebSocketListener@3333" javaclass="com.wm.util.Values">
       <number name="port" type="Integer">3333</number>
       <value name="protocol">WebSocket</value>
-      <value name="pkg">WxIBMEventsStreamDemo</value>
+      <value name="pkg">WxIBMEventStreamsDemo</value>
       <value name="enabled">true</value>
       <value name="key">WebSocketListener@3333</value>
       <value name="uniqueID">85d9207d7c004fd5a4eceebd041bf26f</value>
